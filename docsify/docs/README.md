@@ -21,6 +21,8 @@ Link to privacy policy of third party service providers used by the app
 - [Google Analytics for Firebase](https://firebase.google.com/policies/analytics)
 - [Firebase Crashlytics](https://firebase.google.com/support/privacy/)
 - [Unity](https://unity3d.com/legal/privacy-policy)
+- [Kochava](https://support.kochava.com/reference-information/sdk-data-privacy-and-safety/)
+    - The Kochava SDK collect the following categories of your personal information and may sell it to third parties: identifiers, commercial information, internet or other electronic network activity information, geolocation data, and inferences drawn from these categories.
 
 ## Log Data
 
@@ -59,7 +61,7 @@ These Services do not address anyone under the age of 13. I do not knowingly col
 
 I may update our Privacy Policy from time to time. Thus, you are advised to review this page periodically for any changes. I will notify you of any changes by posting the new Privacy Policy on this page.
 
-This policy is effective as of 2021-11-18
+This policy is effective as of 2021-12-22
 
 ## Contact Us
 
